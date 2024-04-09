@@ -1,0 +1,3 @@
+[submodule "ru-pnames-list"]
+	path = ru-pnames-list
+	url = git@github.com:MrRTi/ru-pnames-list.git
